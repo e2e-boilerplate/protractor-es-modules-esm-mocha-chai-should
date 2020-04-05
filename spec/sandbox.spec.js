@@ -8,8 +8,8 @@ describe("Sandbox", () => {
   });
 
   it("should be on Sandbox", async () => {
-    const pageTitle = await browser.getTitle();
-    pageTitle.should.eql("Sandbox");
+    const title = await browser.getTitle();
+    title.should.eql("Sandbox");
 
     const header = await element(by.css("h1")).getText();
     header.should.eql("Sandbox");
