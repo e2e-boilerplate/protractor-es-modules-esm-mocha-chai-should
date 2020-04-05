@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                      |
+| :-- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 195 | 02/04/20 21:10 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/69499596) |
+| 194 | 02/04/20 19:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/69444204) |
+| 192 | 31/03/20 22:21 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/67890414)         |
+| 197 | 02/04/20 23:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/69551226) |
+| 190 | 30/03/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/66995861) |
+| 191 | 30/03/20 22:21 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/67028970) |
+| 189 | 29/03/20 21:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/66143412) |
+| 186 | 29/03/20 16:53 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/66020225)         |
+| 188 | 29/03/20 21:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/66140708) |
+| 184 | 29/03/20 07:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65786182) |
+| 180 | 29/03/20 00:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65638398) |
+| 185 | 29/03/20 16:16 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/66007975)         |
+| 193 | 01/04/20 23:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/68743209) |
+| 177 | 28/03/20 20:07 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65533100) |
+| 175 | 28/03/20 18:43 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65506628) |
+| 173 | 28/03/20 13:04 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65373850) |
+| 179 | 28/03/20 21:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65572136) |
+| 172 | 27/03/20 19:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/64985233) |
+| 181 | 29/03/20 01:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65663324) |
+| 187 | 29/03/20 19:22 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/66081791)         |
+| 176 | 28/03/20 19:17 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65521197) |
+| 178 | 28/03/20 20:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65544944) |
+| 174 | 28/03/20 15:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65439860) |
+| 182 | 29/03/20 07:06 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65778768) |
+| 183 | 29/03/20 07:17 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/65783401) |
+| 201 | 03/04/20 21:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/70310357) |
+| 200 | 03/04/20 21:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/70302319) |
+| 199 | 03/04/20 00:07 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/69575006) |
+| 198 | 02/04/20 23:45 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/69563342) |
+| 196 | 02/04/20 21:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect/actions/runs/69506424) |
